@@ -1,0 +1,17 @@
+{
+  "name": "react-reddit-comment-embed",
+  "version": "0.1.0",
+  "description": "Embed a reddit comment as a react component",
+  "main": "src/index.js",
+  "keywords": ["reddit", "comment", "embed", "react", "react-component"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodamelio/react-reddit-comment-embed.git"
+  },
+  "author": "Gio d'Amelio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giodamelio/react-reddit-comment-embed/issues"
+  },
+  "homepage": "https://github.com/giodamelio/react-reddit-comment-embed#readme"
+}
